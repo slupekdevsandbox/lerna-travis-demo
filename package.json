@@ -1,6 +1,7 @@
 {
   "name": "@geut/lerna-travis-chan-demo",
   "version": "1.0.0",
+  "private": true,
   "description": "nothing to see here :shipit:",
   "main": "index.js",
   "scripts": {
